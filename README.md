@@ -1,2 +1,3 @@
 # first-project
-this is my new repository
+this is my new repository 
+and first project
